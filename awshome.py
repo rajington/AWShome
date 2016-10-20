@@ -65,4 +65,4 @@ if __name__ == "__main__":
     print('Listening...')
 
     while True:
-        pass
+        time.sleep(0.2)
